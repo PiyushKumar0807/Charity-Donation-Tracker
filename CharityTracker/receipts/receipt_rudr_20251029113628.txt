@@ -1,0 +1,7 @@
+
+=== Charity Donation Receipt ===
+Donor Name : rudr
+Amount     : ₹7777.0
+Date       : 2025-10-29 11:36:28 IST
+-------------------------------
+Thank you for your generous donation!
